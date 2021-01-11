@@ -38,7 +38,7 @@ To-do list:
 
 ## Getting Started
    
-git clone https://github.com/revaturelabs/caliber-trainer-report-back.git
+git clone https://github.com/Weeglord/Imperial_TRMS.git
 
 #Backend:
 Use Maven update to build the project, run TRMSJavalin.java
