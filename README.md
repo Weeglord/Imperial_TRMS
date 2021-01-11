@@ -44,7 +44,7 @@ git clone https://github.com/Weeglord/Imperial_TRMS.git
 Use Maven update to build the project, run TRMSJavalin.java
 
 #Frontend:
-Navigate to http://localhost:4200 on web browser
+Navigate to http://localhost:8080 on web browser
 
 ## Usage
 
