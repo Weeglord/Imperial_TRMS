@@ -59,3 +59,6 @@ Navigate to http://localhost:8080 on web browser
 * Address open information requests in the notifications tab
 * Expand and view a desired form
 * Accept, Reject, or request information as desired
+
+##License
+<MIT License>
